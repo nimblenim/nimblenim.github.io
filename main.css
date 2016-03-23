@@ -1,0 +1,48 @@
+body{
+}
+
+.center-text{
+	text-align: center;
+}
+
+
+.donald-image{
+	height: 200px;
+	width:200px;
+	border-radius: 50%;
+}
+
+.add-padding-bottom{
+	padding-bottom: 15px;
+}
+
+.custom-btn{
+	color: black;
+	background-color: white;
+	border-radius: 10px;
+	border-color: black;
+	border-width: 1px;
+}
+
+.custom-btn:hover{
+	color:white;
+	background-color: black;
+}
+
+.project-container{
+	border:1px solid black;
+	height:225px;
+	padding:15px;
+}
+.project-desc{
+	overflow-y:auto;
+	max-height:50px;
+}
+.project-margin{
+	margin-bottom: 15px;
+}
+
+.custom-shadow{
+	box-shadow: 5px 5px 10px 10px black;
+
+}
